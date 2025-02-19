@@ -1,0 +1,21 @@
+,,,,,,,,,,,
+,Bubblegum Bay,Candy Button Bay,Cherry Cordial Cove,Cocoa Bean Crater,,,,,location_id,capacity,demand
+Mochi Metropolis,0.06,0.18,0.16,0.11,,,,,Sfee39a4,125,
+Marshmallow Meadows,0.15,0.12,0.08,0.16,,,,,Sf290089,143,
+Pixie Stix Plateau,0.06,0.18,0.05,0.17,,,,,Sc6ea0d9,115,
+Mallow Melt Mountains,0.06,0.05,0.07,0.16,,,,,S0c4f7e2,105,
+Macaron Market,0.05,0.06,0.10,0.18,,Objective,30.69,,Dd599e8a,,82
+Lollipop Lagoon,0.10,0.15,0.06,0.07,,,,,Db55b4cc,,88
+,,,,,,,,,D662583f,,86
+,,,,,,,,,D3d03c41,,82
+,,,,,,,,,D3034469,,83
+,Bubblegum Bay,Candy Button Bay,Cherry Cordial Cove,Cocoa Bean Crater,SUM,Max,,,D2ef7866,,90
+Mochi Metropolis,67.00,0.00,0.00,15.00,82.00,82,,,,,
+Marshmallow Meadows,0.00,0.00,65.00,0.00,65.00,88,,,,,
+Pixie Stix Plateau,36.00,0.00,50.00,0.00,86.00,86,,,,,
+Mallow Melt Mountains,0.00,82.00,0.00,0.00,82.00,82,,,,,
+Macaron Market,22.00,61.00,0.00,0.00,83.00,83,,,,,
+Lollipop Lagoon,0.00,0.00,0.00,90.00,90.00,90,,,,,
+SUM,125.00,143.00,115.00,105.00,,,,,,,
+Capacity,125,143,115,105,,,,,,,
+,,,,,,,,,,,
